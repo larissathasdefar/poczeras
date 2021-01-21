@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        
+        <h1>Poczeras</h1>
       </main>
 
       <footer className={styles.footer}>
